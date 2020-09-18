@@ -1,4 +1,4 @@
-# Gustavo Magaña López 🇲🇽
+# Gus 👨🏻‍💻 🇲🇽
 
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). 
 
