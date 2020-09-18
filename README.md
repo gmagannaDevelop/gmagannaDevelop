@@ -2,7 +2,7 @@
 
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). 
 
-- 🔭 I’m currently working on diabetes physiopathology modelling. This basically boils down to me, trying to better understand my chronic disease and learning to beter live with it.
+- 🔭 I’m currently working on diabetes physiopathology modelling. This basically boils down to me, trying to better understand my chronic disease and learning to live with it.
 
 - 🌱 I’m currently learning a lot of stuff! I'm picking up Julia and TypeScript.
 
@@ -12,7 +12,7 @@ BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.m
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Dutch and would love to eventually learn Tsotsil, a mayan language.
+- ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Dutch and would love to eventually learn Tsotsil, a Mayan language.
 
 - :computer: Proud owner of a [System76](https://system76.com/) Oryx Pro.
 
