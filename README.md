@@ -4,7 +4,7 @@ BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.m
 
 - 🔭 I’m currently working on diabetes physiopathology modelling. This basically boils down to me, trying to better understand my chronic disease and learning to live with it.
 
-- 🌱 I’m currently learning a lot of stuff! I'm picking up Julia and TypeScript.
+- 🌱 I’m currently learning a lot of stuff! I'm picking up Julia.
 
 - 💬 Ask me about anything 
 
