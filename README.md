@@ -10,8 +10,6 @@ BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.m
 
 - 📫 How to reach me: my email :P
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Dutch and would love to eventually learn Tsotsil, a Mayan language.
 
 - :computer: Proud owner of a [System76](https://system76.com/) Oryx Pro.
