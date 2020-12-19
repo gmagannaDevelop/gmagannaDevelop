@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=onedark" />
   </div>
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark"/>
   </div>
 </div> 
 
