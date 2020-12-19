@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=10" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
