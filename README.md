@@ -29,6 +29,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop)
+<div class="row">
+  <div class="column">
+    ![github stats](https://github-readme-stats.vercel.app/api?username=gmagannaDevelop)
+  </div>
+  <div class="column">
+    ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop)
+  </div>
+</div> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gmagannaDevelop)
+
