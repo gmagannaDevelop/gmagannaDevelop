@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=onedark&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true" />
   </div>
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true"/>
