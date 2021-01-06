@@ -21,7 +21,7 @@ in the genome and the vast array of internal metabolic states derived from exter
 
 <!--
 **gmagannaDevelop/gmagannaDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+œæ œæ œæ
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
