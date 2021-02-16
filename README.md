@@ -42,5 +42,7 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmagannaDevelop&theme=dark"/>
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gmagannaDevelop&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
