@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=10&hide=html&layout=compact?exclude_repo=msa-mod" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=10&hide=html&layout=compact&exclude_repo=msa-mod" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
