@@ -1,3 +1,5 @@
+
+
 # Gus 👨🏻‍💻 🇲🇽  ![](https://enqg5nb3906uo6j.m.pipedream.net)
 
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests. 
@@ -43,7 +45,8 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
 </a>
-<a href="#">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=10&hide=html&layout=compact&exclude_repo=msa-mod,cowsay-files,gmagannaDevelop.github.io" />
-</a>
+</p>
+
 
