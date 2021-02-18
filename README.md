@@ -39,15 +39,11 @@ Here are some ideas to get you started:
 
 
 
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmagannaDevelop&theme=dark"/>
-</a>
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true" />
 </a>
-<center>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=10&hide=html&layout=compact&exclude_repo=msa-mod,cowsay-files,gmagannaDevelop.github.io" />
 </a>
-</center>
 
