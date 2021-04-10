@@ -5,6 +5,8 @@
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests. 
 Currently fascinated by systems biology.
 
+Pythonista by trade, useR by passion.
+
 _The regulation of gene expression is thus, the dynamic link between the quasi static information contained
 in the genome and the vast array of internal metabolic states derived from external stimuli._
 
