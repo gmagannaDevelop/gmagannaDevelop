@@ -5,10 +5,10 @@
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests. 
 Currently fascinated by systems biology.
 
+I stand with my bretheren from Colombia. [#nosestánmatando](https://www.bbc.com/news/world-latin-america-56983865)
+
 Pythonista by trade, useR by passion.
 
-_The regulation of gene expression is thus, the dynamic link between the quasi static information contained
-in the genome and the vast array of internal metabolic states derived from external stimuli._
 
 - 🔭 My main side projects focus on diabetes physiopathology modelling. I'm trying to better understand my chronic disease and learning to live with it.
 
@@ -26,6 +26,11 @@ in the genome and the vast array of internal metabolic states derived from exter
 <!--
 **gmagannaDevelop/gmagannaDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 œæ œæ œæ
+
+
+_The regulation of gene expression is thus, the dynamic link between the quasi static information contained
+in the genome and the vast array of internal metabolic states derived from external stimuli._
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
