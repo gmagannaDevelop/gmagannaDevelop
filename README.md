@@ -3,7 +3,7 @@
 # Gus 👨🏻‍💻 🇲🇽  ![](https://enqg5nb3906uo6j.m.pipedream.net)
 
 ### Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.
-(Dante Alihieri, _Inferno_, Canto XXVI)
+(Dante Alighieri, _Inferno_, Canto XXVI)
 
 BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests. 
 Currently fascinated by systems biology.
