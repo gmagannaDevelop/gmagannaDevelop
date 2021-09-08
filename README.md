@@ -5,10 +5,8 @@
 ### Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.
 (Dante Alighieri, _Inferno_, Canto XXVI)
 
-BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), starting a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests. 
-Currently fascinated by systems biology.
+BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), doing the second year of a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests.
 
-I stand with my bretheren from Colombia. [#nosestánmatando](https://www.bbc.com/news/world-latin-america-56983865)
 
 Pythonista by trade, useR by passion.
 
