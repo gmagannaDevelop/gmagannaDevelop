@@ -55,3 +55,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=6&hide=html&layout=compact&exclude_repo=msa-mod,cowsay-files,gmagannaDevelop.github.io" />
 </a>
 
+<a href="#">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmagannaDevelop&theme=solarized_dark" />
+</a>
+
