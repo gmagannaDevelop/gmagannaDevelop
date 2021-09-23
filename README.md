@@ -17,7 +17,7 @@ Pythonista by trade, useR by passion.
 
 - 💬 Ask me about anything 
 
-- 📫 How to reach me: my email :P
+- 📫 How to reach me: [![Gitter](https://badges.gitter.im/gmagannaDevelop/community.svg)](https://gitter.im/gmagannaDevelop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Dutch and would love to eventually learn Tsotsil, a Mayan language.
 
