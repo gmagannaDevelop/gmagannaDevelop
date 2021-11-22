@@ -19,7 +19,7 @@ Pythonista by trade, useR by passion.
 
 - 📫 How to reach me: [![Gitter](https://badges.gitter.im/gmagannaDevelop/community.svg)](https://gitter.im/gmagannaDevelop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-- ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Dutch and would love to eventually learn Tsotsil, a Mayan language.
+- ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Hebrew and would love to eventually learn Tsotsil, a Mayan language.
 
 - :computer: Proud owner of a [System76](https://system76.com/) Oryx Pro.
 
