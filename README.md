@@ -5,19 +5,21 @@
 ### Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.
 (Dante Alighieri, _Inferno_, Canto XXVI)
 
-BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/), doing the second year of a MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Curious individual with rather disperse interests.
+* BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/)
+* MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+* PhD candidate
+<!--
+* PhD candidate at [LaBRI](https://www.labri.fr/), a research lab from [Université de Bordeaux](https://www.u-bordeaux.fr/), under the French [ANR BNeDiction research project](https://bnediction.github.io/). My supervisor is [Loïc Paulevé](https://loicpauleve.name/).
+-->
+* Curious individual with rather disperse interests.
 
 
-Pythonista by trade, useR by passion.
+I like to consider myself as both a Pythonista and a useR, although most of my work is in Python.
 
 
-- 🔭 My main side projects focus on diabetes physiopathology modelling. I'm trying to better understand my chronic disease and learning to live with it.
+- 🔭 Working on the synthesis and learning of ensembles of predictive Boolean Networks for cellular reprogramming.
 
-- 🌱 I'm picking up Julia and learning to create beautiful, reproducible reports via RMarkdown on RStudio.
-
-- 💬 Ask me about anything 
-
-- 📫 How to reach me: [![Gitter](https://badges.gitter.im/gmagannaDevelop/community.svg)](https://gitter.im/gmagannaDevelop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- 📫 How to reach me: [![Gitter](https://badges.gitter.im/gmagannaDevelop/community.svg)](https://gitter.im/gmagannaDevelop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).
 
 - ⚡ Fun fact: I love learning human languages. Untill now, the list in order of appearance is: 🇲🇽, :uk:, :fr:, :it:. I'm trying to learn Hebrew and would love to eventually learn Tsotsil, a Mayan language.
 
@@ -34,6 +36,7 @@ in the genome and the vast array of internal metabolic states derived from exter
 
 Here are some ideas to get you started:
 
+- 🌱 I'm picking up Julia and learning to create beautiful, reproducible reports via RMarkdown on RStudio.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -55,7 +58,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmagannaDevelop&theme=dark&show_icons=true&count_private=true&hide_border=true&langs_count=6&hide=html&layout=compact&exclude_repo=msa-mod,cowsay-files,gmagannaDevelop.github.io" />
 </a>
 
+<!--
 <a href="#">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmagannaDevelop&theme=solarized_dark" />
 </a>
-
+-->
