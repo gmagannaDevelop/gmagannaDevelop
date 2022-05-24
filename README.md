@@ -7,7 +7,7 @@
 
 * BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/)
 * MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
-* PhD candidate
+* (starting from september 2022) PhD candidate at [LaBRI](https://www.labri.fr/), supervised by [Loïc Paulevé](https://loicpauleve.name/).
 <!--
 * PhD candidate at [LaBRI](https://www.labri.fr/), a research lab from [Université de Bordeaux](https://www.u-bordeaux.fr/), under the French [ANR BNeDiction research project](https://bnediction.github.io/). My supervisor is [Loïc Paulevé](https://loicpauleve.name/).
 -->
