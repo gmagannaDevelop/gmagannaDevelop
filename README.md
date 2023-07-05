@@ -7,7 +7,7 @@
 
 * BSc. in Biomedical Engineering at [Universidad de Guanajuato](https://www.ugto.mx/)
 * MSc in Bioinformatics and Computational Biology at  [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). 
-* PhD candidate at [LaBRI](https://www.labri.fr/), supervised by [Loïc Paulevé](https://loicpauleve.name/) (starting september 2022).
+* PhD candidate at [LaBRI](https://www.labri.fr/) ([Université de Bordeaux](https://www.u-bordeaux.fr/en)), supervised by [Loïc Paulevé](https://loicpauleve.name/) (since september 2022).
   * 🔭 Working on the synthesis and learning of ensembles of predictive Boolean Networks for cellular reprogramming.
 * Curious individual with rather disperse interests.
 * 📫 How to reach me: [![Gitter](https://badges.gitter.im/gmagannaDevelop/community.svg)](https://gitter.im/gmagannaDevelop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge).
